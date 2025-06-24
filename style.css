@@ -1,0 +1,20 @@
+     body {
+        font-family: "Sono", sans-serif;
+
+      }
+      .garage-container{
+        display: flex;
+        justify-content: center;
+        height: 100vh;
+        align-content: center;
+      }
+      .car-item{
+        background-color: aliceblue;
+        text-align: center;
+      }
+
+
+      img{
+        height: 200px;
+        width: 350px;
+    }
