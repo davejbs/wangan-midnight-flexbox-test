@@ -59,7 +59,11 @@
     @media (max-width:1250px){
         .garage-container{
             flex-direction: column;
-            height: 100%;
+            height: auto;
+        }
+
+        .car-item{
+            transform: scale(0.9);
         }
         #text{
             font-size: 2rem;
